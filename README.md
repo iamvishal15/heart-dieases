@@ -1,2 +1,2 @@
-# heart-dieases
+# heart-disease
 heart dieases prediction 
